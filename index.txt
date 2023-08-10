@@ -1,0 +1,108 @@
+<!doctype html>
+<html>
+<head>
+
+<title> My first website</title>
+<style>
+    body{
+	     width:1100px;
+		 background:rgb(215,215,255);
+		 max-width:95%;
+		 margin:auto;
+	}
+	h1{
+	    float:left;
+		color:rgb(100,0,0);
+		margin:0;
+	
+	}
+	header h2{
+	    text-align:center;
+		font-weight:normal;
+		color:rgb(0,150,175);
+	}
+	section{
+	    background:rgb(255,215,215);
+		padding:50px 10px;
+		
+	}
+	section h2{
+	    text-align:center;
+		color:rgb(0,100,150);
+	}
+	section p{
+	 color:rgb(0,150,50); 
+	}	
+	article{
+	   background:rgb(255,255,255);
+	   float:left;
+	   width:29.3%;
+	   margin:1%;
+	   padding:1%;
+	   height:300px;
+	}
+	h3{
+	    color:rgb(45,45,45);
+		
+}
+	article p{
+		   color:rgb(75,75,75);
+		}
+
+	}
+	footer{
+	    text-align:center;
+		background:rgb(175,175,175);
+		clear:left;
+		padding:25;
+	}
+</style>
+
+
+
+
+</head>
+<body>
+
+
+<header>
+<h1>Mysite.com</h1>
+<h2>where can i learn cool stuff</h2>
+</header>
+<section>
+<h2>THIS IS MY FIRST WEBSITE</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<section>
+<article>
+<h3>MY INTERESTS</h3>
+<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+</article>
+<section>
+<article>
+
+<h3>MY HOBBIES</h3>
+
+<p>
+<li>Teaching  </li>
+<li> web</li>
+<li> dev</li>
+
+</p>
+</article>
+
+<section>
+
+<article>
+<h3> CONTACT ME</h3>
+<li>878909000</li>
+<li>dhjd@gmail.com</li>
+
+</article>
+
+<footer> 
+<p>https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/learn/lecture/364392#notes</p>
+<p>next</p>
+</footer>
+
+</body>
+</html>
